@@ -1,0 +1,1 @@
+A random password generator creates secure, unpredictable passwords to help protect user accounts from unauthorized access. These generators use a mix of characters, including uppercase and lowercase letters, numbers, and special symbols, to create complex and hard-to-guess passwords. Here’s how a basic random password generator typically works:
